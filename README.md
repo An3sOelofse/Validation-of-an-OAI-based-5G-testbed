@@ -1,3 +1,3 @@
-# Validation-of-an-OAI-based-5G-testbed
+# Validation od an OpenAirInterface 5G Testbed for Uplink-Heavy Live Audio-Visual Production
 
-This is a repository containing the results and configuration files for the paper "Validation of an OpenAirInterface-based 5G Testbed for Live Audio-Visual Production with Custom TDD Configurations".
+This is a repository containing the configuration, raw measurements and processed results files for the paper _"Validation od an OpenAirInterface 5G Testbed for Uplink-Heavy Live Audio-Visual Production"_. 
